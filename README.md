@@ -1,4 +1,10 @@
 <div align="center">
+  <h1>
+    <strong>This package has moved to <a href="https://github.com/DioxusLabs/dioxus/tree/master/packages/tui">dioxus/packages/tui</a>.</strong>
+  </h1>
+</div>
+
+<div align="center">
   <h1>Rink</h1>
   <p>
     <strong>Beautiful terminal user interfaces in Rust with <a href="https://dioxuslabs.com/">Dioxus </a>.</strong>
